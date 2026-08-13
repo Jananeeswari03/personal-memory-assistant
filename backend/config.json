@@ -1,0 +1,10 @@
+{
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "YOUR_EMAIL@gmail.com",
+    "password": "YOUR_APP_PASSWORD",
+    "from": "YOUR_EMAIL@gmail.com",
+    "to": "YOUR_EMAIL@gmail.com"
+  }
+}
