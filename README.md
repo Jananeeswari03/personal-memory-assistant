@@ -1,4 +1,5 @@
-# Personal Memory Assistant — Full Version (NLP + Speech + Streamlit + Transformers)
+# Personal Memory Assistant — Full Version 
+(NLP + Speech + Streamlit + Transformers)
 
 ## Overview
 This project is a personal memory assistant that:
